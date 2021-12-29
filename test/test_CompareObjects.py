@@ -1,4 +1,4 @@
-from ..src.CompareObjects import compare_objects
+from ..deep_compare.CompareObjects import compare_objects
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ NATIVE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
