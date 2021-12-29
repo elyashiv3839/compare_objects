@@ -11,9 +11,9 @@ setuptools.setup(
     description="Resolve schema and deploy to single schema",
     long_description="file: README.md",
     long_description_content_type="text/markdown",
-    url="https://github.com/elyashiv3839/object_compare.git",
-    download_url="https://github.com/elyashiv3839/object_compare/archive/refs/tags/1.0.0.tar.gz",
-    project_urls={"Bug Tracker": "https://github.com/elyashiv3839/object_compare.git"},
+    url="https://github.com/elyashiv3839/compare_objects.git",
+    download_url="https://github.com/elyashiv3839/compare_objects/archive/refs/tags/1.0.0.tar.gz",
+    project_urls={"Bug Tracker": "https://github.com/elyashiv3839/compare_objects.git"},
     classifier=[
         "Programming Language :: Python :: 3",
         "Operating System :: Multi-platform",
