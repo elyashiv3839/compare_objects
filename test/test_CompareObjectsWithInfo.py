@@ -1,4 +1,4 @@
-from ..object_compare.CompareObjectsWithInfo import compare_objects_with_info
+from ..compare_objects.CompareObjectsWithInfo import compare_objects_with_info
 
 
 # ######################### WITH INFORMATION ######################### #

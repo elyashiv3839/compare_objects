@@ -14,8 +14,8 @@
 - Usage:
     - Imports:
         ```
-        from deep_compoare import compare_objects
-        from deep_compoare import compare_objects_with_info
+        from compare_objects import compare_objects
+        from compare_objects import compare_objects_with_info
         ```
     
 	- compare_objects:

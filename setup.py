@@ -4,21 +4,21 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="object_compare",
+    name="compare_objects",
     version="1.0.0",
     author="Elyashiv Danino",
     author_email="elyashiv3839@gmail.com",
     description="Resolve schema and deploy to single schema",
     long_description="file: README.md",
     long_description_content_type="text/markdown",
-    url="https://github.com/elyashiv3839/deep_compare.git",
-    download_url="https://github.com/elyashiv3839/deep_compare/archive/refs/tags/1.0.0.tar.gz",
-    project_urls={"Bug Tracker": "https://github.com/elyashiv3839/deep_compare.git"},
+    url="https://github.com/elyashiv3839/object_compare.git",
+    download_url="https://github.com/elyashiv3839/object_compare/archive/refs/tags/1.0.0.tar.gz",
+    project_urls={"Bug Tracker": "https://github.com/elyashiv3839/object_compare.git"},
     classifier=[
         "Programming Language :: Python :: 3",
         "Operating System :: Multi-platform",
         'License :: OSI Approved :: MIT License',
     ],
-    packages=['object_compare'],
+    packages=['compare_objects'],
     python_requires=">=3.6",
 )
