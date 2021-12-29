@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="deep_compare",
+    name="object_compare",
     version="1.0.0",
     author="Elyashiv Danino",
     author_email="elyashiv3839@gmail.com",
@@ -19,6 +19,6 @@ setuptools.setup(
         "Operating System :: Multi-platform",
         'License :: OSI Approved :: MIT License',
     ],
-    packages=['deep_compare'],
+    packages=['object_compare'],
     python_requires=">=3.6",
 )

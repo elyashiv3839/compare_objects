@@ -1,8 +1,7 @@
-from ..deep_compare.CompareObjects import compare_objects
+from ..object_compare.CompareObjects import compare_objects
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ NATIVE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-
 
 def test_two_strings_val_compare():
     assert compare_objects("hello", "hello") is True
