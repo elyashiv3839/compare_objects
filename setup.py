@@ -12,6 +12,7 @@ setuptools.setup(
     long_description="file: README.md",
     long_description_content_type="text/markdown",
     url="https://github.com/elyashiv3839/deep_compare.git",
+    download_url="https://github.com/elyashiv3839/deep_compare/archive/refs/tags/1.0.0.tar.gz",
     project_urls={"Bug Tracker": "https://github.com/elyashiv3839/deep_compare.git"},
     classifier=[
         "Programming Language :: Python :: 3",
