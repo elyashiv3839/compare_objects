@@ -16,6 +16,7 @@ setuptools.setup(
     classifier=[
         "Programming Language :: Python :: 3",
         "Operating System :: Multi-platform",
+        'License :: OSI Approved :: MIT License',
     ],
     packages=['deep_compare'],
     python_requires=">=3.6",
