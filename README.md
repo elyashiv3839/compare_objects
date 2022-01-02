@@ -33,7 +33,3 @@
         
         result, info = compare_objects(object_a, object_b)
 		```
-
-- Support:
-    ````
-    Email me for support: elyashiv3839@gmail,co,.local
